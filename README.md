@@ -1,2 +1,2 @@
 # Feeding-Entrainment
-Related to the control of Arduino-mediated feeding of &lt;i>Drosophila&lt;/i>
+Related to the control of Arduino-controlled feeding access of *Drosophila*
